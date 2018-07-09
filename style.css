@@ -1,5 +1,5 @@
 #main{
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(238, 238, 238);
     width: 98vw;
     height: 2300px;
 }
@@ -46,11 +46,16 @@
 ul {
     
     
-    font-size: 15px;
+    font-size: 13px;
+    
     }
     
 #listbox{
     
     margin-left:450px;
     margin-right: 450px;
+}
+
+h3{
+    text-align: center;
 }
