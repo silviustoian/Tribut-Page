@@ -1,7 +1,7 @@
 #main{
-    background-color: rgb(196, 196, 196);
+    background-color: rgb(219, 219, 219);
     width: 98vw;
-    height: 1200px;
+    height: 2300px;
 }
 
 #title{
@@ -17,7 +17,7 @@
 
 }
 
-#description{
+.description{
     text-align: center;
     font-weight: 100;
     
@@ -27,7 +27,7 @@
 .white{
     background-color: white;
     width: 95.5vw;
-    height: 60vh;
+    height: 80vh;
     margin: 0 auto;
     padding: 10px;
     position: relative;
@@ -35,9 +35,22 @@
     
 }
 
-#photo{
-    max-height:100%; max-width:100%;
+#image{
+    max-height:90%; max-width:100%;
     text-align: center;
+
     
        
+}
+
+ul {
+    
+    
+    font-size: 15px;
+    }
+    
+#listbox{
+    
+    margin-left:450px;
+    margin-right: 450px;
 }
