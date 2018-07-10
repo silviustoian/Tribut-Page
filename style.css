@@ -27,7 +27,7 @@
 .white{
     background-color: white;
     width: 95.5vw;
-    height: 80vh;
+    height: 50%;
     margin: 0 auto;
     padding: 10px;
     position: relative;
@@ -36,7 +36,8 @@
 }
 
 #image{
-    max-height:90%; max-width:100%;
+    height: auto;
+     max-width:100%;
     text-align: center;
 
     
